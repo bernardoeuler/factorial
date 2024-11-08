@@ -1,5 +1,5 @@
 # Factorial
-This program calculate the factorial of **any** number. Yes, any number, if you can wait. This is because of the use of the GMP library (GNU Multiple Precision Arithmetic), which makes it possible to go beyond the limits of C in terms of integers representation.
+This program calculates the factorial of **any** number. Yes, any number, if you can wait. This is because of the use of the GMP library (GNU Multiple Precision Arithmetic), which makes it possible to go beyond the limits of C in terms of integers representation.
 The program runs very fast. Calculating is terms of **miliseconds** the factorial of 1, 2, 100, 500 or even 100.000! It can go beyond and calculate the factorial of bigger numbers, despite taking a bit longer to do that.
 
 ## How to download
