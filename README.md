@@ -3,7 +3,7 @@ This program calculates the factorial of **any** number. Yes, any number, if you
 The program runs very fast. Calculating in terms of **miliseconds** the factorial of 1, 2, 100, 500 or even 100.000! It can go beyond and calculate the factorial of bigger numbers, despite taking a bit longer to do that.
 
 ## How to download
-Download the  [linux binary](https://github.com/bernardoeuler/factorial/releases/tag/v1.0.0) in the releases page and run it.
+Download the [linux binary](https://github.com/bernardoeuler/factorial/releases/tag/v1.0.0) in the releases page and run it.
 The binaries for Windows and MacOS aren't avaliable yet.
 
 ## How to compile
